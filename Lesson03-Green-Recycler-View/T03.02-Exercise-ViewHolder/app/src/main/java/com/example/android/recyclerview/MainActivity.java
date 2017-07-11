@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
          * change the child layout size in the RecyclerView
          */
         mNumbersList.setHasFixedSize(true);
-
+        
         /*
          * The GreenAdapter is responsible for displaying each item in the list.
          */
